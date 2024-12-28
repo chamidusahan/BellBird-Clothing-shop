@@ -1,0 +1,9 @@
+.container {
+  max-width: 960px;
+}
+
+.profile-img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
